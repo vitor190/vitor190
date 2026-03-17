@@ -1,9 +1,9 @@
-# Vitor Cesar G. Lima - #OpenToWork
+# Vitor Cesar G. Lima 
 
-### Estudante de Ciências da Computação @ [Unifor]
+### Estudante de Ciências da Computação | Unifor
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-cesar-gon%C3%A7alves-lima-b019202aa)
-[![Email](https://img.shields.io/badge/vitorcesarglima05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vitorcesarglima05@gmail.com)
+[![Email](https://img.shields.io/badge/vitorcesarglima05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vitor:vitorcesarglima05@gmail.com)
 
 ---
 
