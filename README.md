@@ -24,7 +24,7 @@
 
 ---
 
-###🛠️ No que estou trabalhando | Current Focus
+### 🛠️ No que estou trabalhando | Current Focus
 
 ### 🌐 Web & Front-end
 - React
