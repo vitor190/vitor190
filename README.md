@@ -40,8 +40,6 @@
 
 ## 🧰 Tecnologias & Ferramentas | Technologies & Tools
 
-<div align="center">
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -55,27 +53,6 @@
 ![CSharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitor190&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor190&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 📫 Contato | Contact
-
-📧 Email: **vitorcesarglima05@gmail.com**
-
-💼 LinkedIn:  
-https://www.linkedin.com/in/vitor-lima-b019202aa/
 
 ---
 
