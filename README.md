@@ -1,17 +1,92 @@
-# Vitor Cesar G. Lima 
+<div align="center">
 
-### Estudante de Ciências da Computação | Unifor
+# 🧠 Vitor Cesar G. Lima
+
+### Estudante de Ciências da Computação | UNIFOr
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-cesar-gon%C3%A7alves-lima-b019202aa)
-[![Email](https://img.shields.io/badge/vitorcesarglima05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vitor:vitorcesarglima05@gmail.com)
+
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorcesarglima05@gmail.com)
+
+</div>
 
 ---
 
-Estudante de Ciência da Computação na **UNIFOR**, interessado em desenvolvimento de software, algoritmos e resolução de problemas. Sempre buscando evoluir através de projetos práticos e aprendizado contínuo
+# 👨‍💻 Sobre Mim | About Me
 
-### No que estou trabalhando:
-* **Web & Mobile:** Focado em [**Node.js, React, TypeScript**].
-* **Back-end:** Construindo APIs com [**Java, Python, C#**].
+🎓 Estudante de Ciência da Computação na **Universidade de Fortaleza (UNIFOR)**, apaixonado por desenvolvimento de software, algoritmos e resolução de problemas.
 
-### Tecnologias:
-` TypeScript ` | ` Node.js ` | ` React ` | ` Python ` | ` Java ` | ` C# ` |
+🚀 Sempre buscando evoluir através de projetos práticos, aprendizado contínuo e construção de soluções eficientes e escaláveis.
+
+💡 Interesse em desenvolvimento Fullstack, Back-end, Inteligência Artificial e Engenharia de Software.
+
+---
+
+# 🛠️ No que estou trabalhando | Current Focus
+
+## 🌐 Web & Front-end
+- React
+- TypeScript
+- Node.js
+
+## ⚙️ Back-end
+- Java
+- Python
+- C#
+
+## 📚 Estudando atualmente
+- Estruturas de Dados
+- Sistemas Operacionais
+- APIs REST
+- Clean Code & SOLID
+
+---
+
+# 🧰 Tecnologias & Ferramentas | Technologies & Tools
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![CSharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+# 📫 Contato | Contact
+
+📧 Email: **vitorcesarglima05@gmail.com**
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/vitor-cesar-gon%C3%A7alves-lima-b019202aa
+
+---
+
+<div align="center">
+
+### 🚀 “Sempre aprendendo, construindo e evoluindo.”
+
+</div>
