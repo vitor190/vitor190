@@ -14,7 +14,7 @@
 
 ---
 
-# 👨‍💻 Sobre Mim | About Me
+## 👨‍💻 Sobre Mim | About Me
 
 🎓 Estudante de Ciência da Computação na **Universidade de Fortaleza (UNIFOR)**, apaixonado por desenvolvimento de software, algoritmos e resolução de problemas.
 
@@ -24,27 +24,21 @@
 
 ---
 
-# 🛠️ No que estou trabalhando | Current Focus
+###🛠️ No que estou trabalhando | Current Focus
 
-## 🌐 Web & Front-end
+### 🌐 Web & Front-end
 - React
 - TypeScript
 - Node.js
 
-## ⚙️ Back-end
+### ⚙️ Back-end
 - Java
 - Python
 - C#
-
-## 📚 Estudando atualmente
-- Estruturas de Dados
-- Sistemas Operacionais
-- APIs REST
-- Clean Code & SOLID
-
+  
 ---
 
-# 🧰 Tecnologias & Ferramentas | Technologies & Tools
+## 🧰 Tecnologias & Ferramentas | Technologies & Tools
 
 <div align="center">
 
@@ -64,24 +58,24 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight)
+![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitor190&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor190&layout=compact&theme=tokyonight)
 
 </div>
 
 ---
 
-# 📫 Contato | Contact
+## 📫 Contato | Contact
 
 📧 Email: **vitorcesarglima05@gmail.com**
 
 💼 LinkedIn:  
-https://www.linkedin.com/in/vitor-cesar-gon%C3%A7alves-lima-b019202aa
+https://www.linkedin.com/in/vitor-lima-b019202aa/
 
 ---
 
