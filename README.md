@@ -42,7 +42,7 @@ Apaixonado por resolver problemas com código. Tenho experiência com **desenvol
 
 ##  Experiência Profissional
 
-###  Inafrma Sistemas &nbsp;·&nbsp; *Estágio em Desenvolvimento de Software* &nbsp;·&nbsp; `Atual`
+###  Infarma Sistemas &nbsp;·&nbsp; *Estágio em Desenvolvimento de Software* &nbsp;·&nbsp; `Atual`
 > Atuação no desenvolvimento de ferramentas e integrações com **APIs voltadas para multi-atendimento de clientes**, contribuindo para soluções que tornam a comunicação entre empresas e seus clientes mais eficiente e escalável. Nesse contexto, aprofundei habilidades em:
 > - **JavaScript** e **TypeScript** para lógica de negócio e integrações
 > - **React + Vite** na construção de interfaces modernas e responsivas
