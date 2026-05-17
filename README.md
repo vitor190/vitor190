@@ -9,7 +9,7 @@
   ╚═══╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
 ```
 
-# Vitor Cesar G. Lima
+# 💻 Vitor Cesar G. Lima
 
 **Desenvolvedor de Software · Estudante de Ciência da Computação · UNIFOR**
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+##  Sobre Mim
 
 ```typescript
 const vitor = {
@@ -40,18 +40,23 @@ Apaixonado por resolver problemas com código. Tenho experiência com **desenvol
 
 ---
 
-## 💼 Experiência Profissional
+##  Experiência Profissional
 
-### 🏢 Inafrma Sistemas &nbsp;·&nbsp; *Estágio em Desenvolvimento de Software* &nbsp;·&nbsp; `Atual`
-> Desenvolvimento de soluções web com foco em **JavaScript**, **TypeScript**, **React** e **SQL**.
+###  Inafrma Sistemas &nbsp;·&nbsp; *Estágio em Desenvolvimento de Software* &nbsp;·&nbsp; `Atual`
+> Atuação no desenvolvimento de ferramentas e integrações com **APIs voltadas para multi-atendimento de clientes**, contribuindo para soluções que tornam a comunicação entre empresas e seus clientes mais eficiente e escalável. Nesse contexto, aprofundei habilidades em:
+> - **JavaScript** e **TypeScript** para lógica de negócio e integrações
+> - **React + Vite** na construção de interfaces modernas e responsivas
+> - Consumo e integração de **APIs REST** em fluxos de atendimento
 
-### 🏢 Frogger Brasil &nbsp;·&nbsp; *Estágio em Desenvolvimento de Software* &nbsp;·&nbsp; `3 meses`
-> - Publicação de aplicativos para **Android** e **iOS**
-> - Desenvolvimento de apps com **Dart** + **Flutter Flow** para provedores de internet
+###  Frogger Brasil &nbsp;·&nbsp; *Estágio em Desenvolvimento de Software* &nbsp;·&nbsp; `3 meses`
+> Experiência prática no ciclo completo de publicação e entrega de aplicativos mobile. Trabalhei no desenvolvimento de soluções para **provedores de internet**, do código à loja:
+> - Desenvolvimento de aplicativos com **Dart** e **Flutter Flow**, entregando interfaces fluidas para Android e iOS
+> - Publicação e gerenciamento de apps nas lojas **Google Play** e **App Store**
+> - Contato direto com o fluxo de CI/CD mobile e boas práticas de entrega
 
 ---
 
-## 🚀 Stack Principal
+##  Stack Principal
 
 ### 🌐 Frontend & Web
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -81,41 +86,52 @@ Apaixonado por resolver problemas com código. Tenho experiência com **desenvol
 
 ---
 
-## 🏗️ Projetos em Destaque
+##  Projetos
 
 <table>
   <tr>
     <td width="50%">
-      <h3>💰 Sistema de Gestão Financeira</h3>
-      <p>Aplicação <strong>JavaScript</strong> para cadastro e gerenciamento de receitas e despesas com autenticação de usuário. Controle financeiro pessoal de forma organizada e segura.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <h3> Sistema Fullstack de Gerenciamento de Produtos</h3>
+      <p>Sistema fullstack completo com backend em <strong>.NET (C#)</strong> e frontend em <strong>React + Vite</strong>. Permite cadastrar, listar, editar e excluir produtos com interface moderna e comunicação via <strong>API REST</strong>.</p>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
     </td>
     <td width="50%">
-      <h3>📍 App de Informações de Estabelecimento</h3>
-      <p>Aplicativo móvel em <strong>Dart</strong> que exibe horários, localização, serviços e avaliações de clientes de um estabelecimento.</p>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <h3> Sistema de Gestão Financeira</h3>
+      <p>Aplicação <strong>JavaScript</strong> para cadastro e gerenciamento de receitas e despesas com autenticação de usuário. Controle financeiro pessoal de forma organizada e segura.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🔐 Fechadura Digital (IoT)</h3>
+      <h3> App de Informações de Estabelecimento</h3>
+      <p>Aplicativo móvel em <strong>Dart</strong> que exibe horários, localização, serviços e avaliações de clientes de um estabelecimento.</p>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h3> Fechadura Digital (IoT)</h3>
       <p>Fechadura digital desenvolvida com placa <strong>ESP32</strong> e tecnologia <strong>RFID</strong> para identificação e controle de acesso por radiofrequência.</p>
       <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
       <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
-      <h3>🤖 Construção de Robôs</h3>
+      <h3> Construção de Robôs</h3>
       <p>Projetos práticos com <strong>Arduino</strong> e lógica de aplicativos, explorando automação, sensores e robótica educacional.</p>
       <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
 ---
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
 
@@ -135,28 +151,8 @@ Apaixonado por resolver problemas com código. Tenho experiência com **desenvol
 
 ---
 
-## 🎓 Formação
+##  Formação
 
 | Curso | Instituição | Período |
 |-------|------------|---------|
 | 🎓 Ciência da Computação | UNIFOR — Universidade de Fortaleza | Fev/2023 · Cursando (6º sem.) |
-
----
-
-## 🌍 Idiomas
-
-| Idioma | Nível |
-|--------|-------|
-| 🇧🇷 Português | Nativo |
-| 🇪🇸 Espanhol | Básico |
-| 🇺🇸 Inglês | Básico |
-
----
-
-<div align="center">
-
-### *"Sempre aprendendo, construindo e evoluindo."*
-
-**⭐ Se algum projeto te ajudou, deixa uma estrela!**
-
-</div>
