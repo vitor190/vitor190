@@ -56,6 +56,23 @@
 
 ---
 
+##  Estatísticas do GitHub
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitor190&theme=tokyonight)](https://github.com/AndreVieira0)
+
+</div>
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitor190&theme=tokyonight)](https://github.com/AndreVieira0)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitor190&theme=tokyonight)](https://github.com/vitor190)
+
+</div>
+
+---
+
 <div align="center">
 
 ### 🚀 “Sempre aprendendo, construindo e evoluindo.”
