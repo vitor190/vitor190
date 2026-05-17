@@ -1,21 +1,20 @@
 <div align="center">
 
-# 🧠 Vitor Cesar G. Lima
+# 💻 Vitor Cesar G. Lima
 
-### Estudante de Ciências da Computação | UNIFOr
+### Estudante de Ciências da Computação | UNIFOR
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-cesar-gon%C3%A7alves-lima-b019202aa)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-lima-b019202aa/)
 
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorcesarglima05@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorcesarglima05@gmail.co)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mim | About Me
-
+### Sobre Mim 
 🎓 Estudante de Ciência da Computação na **Universidade de Fortaleza (UNIFOR)**, apaixonado por desenvolvimento de software, algoritmos e resolução de problemas.
 
 🚀 Sempre buscando evoluir através de projetos práticos, aprendizado contínuo e construção de soluções eficientes e escaláveis.
@@ -26,19 +25,19 @@
 
 ### 🛠️ No que estou trabalhando | Current Focus
 
-### 🌐 Web & Front-end
+#### 🌐 Web & Front-end
 - React
 - TypeScript
 - Node.js
 
-### ⚙️ Back-end
+#### ⚙️ Back-end
 - Java
 - Python
 - C#
   
 ---
 
-## 🧰 Tecnologias & Ferramentas | Technologies & Tools
+### Tecnologias & Ferramentas 
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
