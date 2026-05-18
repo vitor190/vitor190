@@ -28,7 +28,7 @@
 ```typescript
 const vitor = {
   nome:      "Vitor Cesar G. Lima",
-  cargo:     "Estagiário Desenvolvedor de Software @ Inafrma Sistemas",
+  cargo:     "Estagiário Desenvolvedor de Software @ Infarma Sistemas",
   formação:  "Ciência da Computação — UNIFOR (6º semestre)",
   localização: "Fortaleza, Ceará 🇧🇷",
   foco:      ["Fullstack Web", "Mobile", "Engenharia de Software"],
