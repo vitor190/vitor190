@@ -43,7 +43,6 @@ Apaixonado por resolver problemas com código. Tenho experiência com **desenvol
 > - Desenvolvimento de interfaces modernas e responsivas com **React**, **Next.js**, **TypeScript** e **Tailwind CSS**
 > - Desenvolvimento e manutenção de APIs e serviços backend com **NestJS** e **Node.js**
 > - Consumo e integração de **APIs REST** em fluxos de atendimento e aplicações comerciais
-> - Gerenciamento de estado no frontend utilizando **Zustand**
 > - Criação de componentes reutilizáveis e organização de aplicações com foco em manutenção e escalabilidade
 > - Utilização de **Git** e **GitHub** para versionamento e colaboração em equipe
 
