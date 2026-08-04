@@ -201,19 +201,13 @@ Apaixonado por resolver problemas com código. Tenho experiência com **desenvol
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitor190&theme=tokyonight)](https://github.com/vitor190)
-
-<br/>
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitor190&theme=tokyonight)](https://github.com/vitor190)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitor190&theme=tokyonight)](https://github.com/vitor190)
-
-<br/>
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitor190&theme=tokyonight)](https://github.com/vitor190)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vitor190&theme=tokyonight&utcOffset=-3)](https://github.com/vitor190)
-
+<a href="https://github.com/vitor190">
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=vitor190&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"
+    alt="Linguagens mais utilizadas"
+  />
+</a>
 </div>
 
 ---
