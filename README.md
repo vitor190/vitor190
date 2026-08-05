@@ -20,7 +20,7 @@
 const vitor = {
   nome: "Vitor Cesar G. Lima",
   cargo: "Estagiário Desenvolvedor de Software @ Infarma Sistemas",
-  formação: "Ciência da Computação — UNIFOR (6º semestre)",
+  formação: "Ciência da Computação — UNIFOR (7º semestre)",
   localização: "Fortaleza, Ceará 🇧🇷",
   foco: ["Fullstack Web", "Mobile", "Engenharia de Software"],
   tecnologias: ["React", "Next.js", "NestJS", "TypeScript", "Node.js"],
@@ -215,4 +215,4 @@ Apaixonado por resolver problemas com código. Tenho experiência com **desenvol
 
 | Curso | Instituição | Período |
 |---|---|---|
-| 🎓 Ciência da Computação | UNIFOR — Universidade de Fortaleza | Fev/2023 · Cursando (6º semestre) |
+| 🎓 Ciência da Computação | UNIFOR — Universidade de Fortaleza | Fev/2023 · Cursando (7º semestre) |
